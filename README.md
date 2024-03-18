@@ -28,7 +28,5 @@ Fortlaufende Messung und Aufzeichnung der relevanten Parameter während des gesa
 - **Externe Einflüsse:** Externe Faktoren wie plötzliche Umgebungstemperaturänderungen, unvorhergesehene Lärmbelastung oder andere Störungen könnten die Testbedingungen beeinflussen und einen vorzeitigen Abbruch notwendig machen.
 - **Fehlverhalten der Teilnehmer:** Das Verhalten der Teilnehmer könnte zu Sicherheitsbedenken führen oder den Testprozess stören, was zu einem vorzeitigen Abbruch des Tests führen könnte.
 - **Nichtbeachtung des Protokolls**: Wenn das Testprotokoll nicht ordnungsgemäß befolgt wird oder unerwartete Umstände auftreten, die nicht im Protokoll berücksichtigt wurden, könnte dies zu einem vorzeitigen Testabbruch führen, um die Integrität der Daten zu gewährleisten.
-## Hinweise:
-??? 
 ## Änderungsgeschichten:
 Version_1.0 , 18.03.2024 , Rania Shehata , Edanur Gür
